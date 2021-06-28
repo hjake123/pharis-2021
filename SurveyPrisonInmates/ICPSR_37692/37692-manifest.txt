@@ -1,0 +1,90 @@
+File Manifest for ICPSR 37692
+
+United States. Bureau of Justice Statistics. Survey of Prison Inmates,
+United States, 2016. ICPSR37692-v2. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2021-03-04.
+http://doi.org/10.3886/ICPSR37692.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37692-descriptioncitation.pdf       -       -         -       2021-03-04  -
+
+    37692-related_literature.txt        -       -         -       daily       -
+
+    37692-manifest.txt                  -       -         -       daily       -
+
+    37692-Documentation-README.pdf      -       -         -       2020-12-21  bfcb9e884700e193eeb2f39a67af0d21
+
+    37692-Documentation-jackknife_multipliers.xlsx -       -         -       2021-03-04  e649f466667abda53af3ed7ff956593f
+
+    37692-User_guide.pdf                -       -         -       2021-03-04  3a374b03df48555b2e70c9b8595033d9
+
+    37692-Zipped_package-syntax.zip     -       -         -       2021-03-04  b1757053cee01ee04c040f1188f7cfd9
+
+
+DS0001 Public-Use U.S. Data (state and federal combined)
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37692-0001-Codebook.pdf             -       -         -       2021-03-04  07dfe06ca2242faed4191a626b5bd987
+
+    37692-0001-Data.dta                 -       24,848    2104    2021-03-04  e933b3a7fd4ebfb8f37396b2281ab9cb
+
+    37692-0001-Data.rda                 -       24,848    2104    2021-03-04  eac646974298f7cfe5fea0aac5f91c38
+
+    37692-0001-Data.sav                 -       24,848    2104    2021-03-04  7fdb27deb01fd0fea20541d990642502
+
+    37692-0001-Data.stc                 -       24,848    2104    2021-03-04  340646f712398e2aae5496208d65b6a0
+
+    37692-0001-Data.tsv                 -       24,848    2104    2021-03-04  c415bf97acc99a6f80aebd6d2319b809
+
+    37692-0001-Data.txt                 9674    24,848    2104    2021-03-04  88fea4a022ab894c12e0bbd205fbeabf
+
+    37692-0001-Setup.dct                -       -         -       2021-03-04  9acb28be8acaff6b4cad112dcd5eab5b
+
+    37692-0001-Setup.do                 -       -         -       2021-03-04  1524667ddc451bb04dd52abce99cff44
+
+    37692-0001-Setup.sas                -       -         -       2021-03-04  b928307d7c6c3ad20c06da27cfc0bbfe
+
+    37692-0001-Setup.sps                -       -         -       2021-03-04  85fb5a6acf03c3626515f844f5bcf2c0
+
+
+DS0002 Public-Use State Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37692-0002-Codebook.pdf             -       -         -       2021-03-04  1821f6e05a510069cdc779b657437112
+
+    37692-0002-Data.dta                 -       20,064    2104    2021-03-04  82acc1584b9592be59e8fbbc86527573
+
+    37692-0002-Data.rda                 -       20,064    2104    2021-03-04  169089ebba1fbad5037863947926958b
+
+    37692-0002-Data.sav                 -       20,064    2104    2021-03-04  7f19698f1e56daa660e260f88dfea255
+
+    37692-0002-Data.stc                 -       20,064    2104    2021-03-04  a2a6142681a957bf9b8fff56f4a85cde
+
+    37692-0002-Data.tsv                 -       20,064    2104    2021-03-04  f40aa1f3e2aadaadf4e2fc6ad04a68fb
+
+    37692-0002-Data.txt                 9665    20,064    2104    2021-03-04  d99f0d8c53b6de545ee18a8dd1bb2a8c
+
+    37692-0002-Setup.dct                -       -         -       2021-03-04  dcda30aa21c35d80b70dde8accedef08
+
+    37692-0002-Setup.do                 -       -         -       2021-03-04  09be8c21d88e3b9eae24f6d3ce458bc9
+
+    37692-0002-Setup.sas                -       -         -       2021-03-04  9b71d55f79c4f743480a43469593388b
+
+    37692-0002-Setup.sps                -       -         -       2021-03-04  1fa2df039729ac3d28791e68843333a2
+
+
+Version History
+
+2021-03-04 The study was updated to include a jackknife multipliers file
+and a revised user guide.

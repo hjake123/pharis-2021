@@ -112,3 +112,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+SurveyPrisonInmates/ICPSR_37692/DS0001/37692-0001-Data.tsv
+SurveyPrisonInmates/ICPSR_37692/DS0002/37692-0002-Data.tsv

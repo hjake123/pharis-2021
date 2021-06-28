@@ -1,0 +1,105 @@
+Bibliography
+Survey of Prison Inmates, United States, 2016
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 37692. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Alper, Mariel; Glaze, Lauren, "Source and Use of Firearms Involved in
+Crimes: Survey of Prison Inmates, 2016." Special Report. NCJ 251776,
+Washington, DC: Bureau of Justice Statistics, Jan 2019.
+Abstract: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=6486
+Full text PDF: https://www.bjs.gov/content/pub/pdf/suficspi16.pdf
+About 21 percent of all state and federal prisoners reported that they had
+possessed or carried a firearm when they committed the offense for which
+they were in prison. Thirteen percent of all prisoners had used a firearm
+in their offense by showing, pointing, or discharging it during the offense
+for which they were imprisoned. Less then 2 percent of all prisoners had
+obtained a firearm from a retail source and possessed, carried, or used it
+during their offense. Among the estimated 287,400 prisoners who had
+possessed a firearm during their offenses, 56 percent had either stolen it
+(6 percent), found it at the scene of the crime (7 percent), or obtained it
+off the street or from the underground market (43 percent). Most of the
+remainder (25 percent) had obtained it from a family member or friend; 7
+percent had purchased it under their own name from a licensed firearm
+dealer. About one in five prisoners who possessed a firearm during their
+offense obtained it with the intent of using it during the crime. Handguns
+were the most common type of firearm. Among state prisoners who possessed a
+gun during their offense, 27 percent killed someone with it; another 12
+percent injured someone; 7 percent fired the gun but did not injure anyone;
+and 54 percent did not fire it. State prisoners with no military service
+were more likely to possess a gun during their offenses (21 percent) than
+prisoners who had served in the military (16 percent). 15 tables and 1
+figure
+
+2. Bureau of Justice Statistics, "Data Collected Under the First Step Act,
+2019." Statistical Tables. NCJ 254268, Washington, DC: Bureau of Justice
+Statistics, Mar 9, 2020.
+Abstract: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=6806
+Full text PDF: https://www.bjs.gov/content/pub/pdf/dcfsa19.pdf
+
+3. Bureau of Justice Statistics, "Source and Use of Firearms Involvled in
+Crimes: Survey of Prison Inmates, 2016." Summary. NCJ 251776, Washington,
+DC: Bureau of Justice Statistics, Jan 2019.
+Full text PDF: https://www.bjs.gov/content/pub/pdf/suficspi16_sum.pdf
+
+4. Carson, E.A., "Mortality in State and Federal Prisons, 2001-2018."
+Statistical Tables. NCJ 255970, Washington, DC: Bureau of Justice
+Statistics, Apr 2021.
+Abstract: https://www.bjs.gov/index.cfm?iid=7387&ty=pbdetail&utm_content=apr2021&utm_medium=email&utm_source=govdelivery
+Full text PDF: https://www.bjs.gov/content/pub/pdf/msfp0118st.pdf
+This Bureau of Justice Statistics (BJS) report presents detailed
+statistical tables on mortality in state and federal prisons. It provides
+information on cause of death; decedent characteristics, such as age,
+gender, and race or ethnicity; and mortality rates of inmate populations,
+compared to the general U.S. adult population. The report is based on BJS’s
+annual Mortality in Correctional Institutions data collection, which
+obtains information on persons who died while in the physical custody of
+state departments of corrections.
+
+5. Glaze, Lauren, "Methodology: Survey of Prison Inmates, 2016." NCJ
+252210, Washington, DC: Bureau of Justice Statistics, Jul 2019.
+Abstract: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=6606
+Full text PDF: https://www.bjs.gov/content/pub/pdf/mspi16.pdf
+The SPI provides national statistics on prisoner characteristics across a
+variety of domains, such as current offense and sentence, incident
+characteristics, firearm possession and sources, criminal history,
+demographic and socioeconomic characteristics, family background, drug and
+alcohol use and treatment, mental and physical health and treatment, and
+facility programs and rules violations. The SPI can also be used to track
+changes in these characteristics over time, describe special populations of
+prisoners, and identify policy-relevant changes in the state and federal
+prison populations. From January through October 2016, data were collected
+through face-to-face interviews with prisoners, using computer-assisted
+personal interviewing (CAPI). In a CAPI interview, interviewers read
+questions aloud and enter responses directly into a laptop computer,
+allowing skip patterns and other routing criteria to be implemented
+automatically. SPI interviews averaged approximately 50 minutes, including
+about 2 minutes for the consent process and 48 minutes to complete the
+survey. Interviews were conducted in English (94 percent;) and Spanish (6
+percent). This report describes the SPI’s universe, sample design and
+selection, selection of prisoners, sample size and response rate, consent,
+analysis for non-response bias, and weighting and non-response adjustments.
+4 tables and terms and definitions
+
+6. Gutierrez, Carmen, "Implementation of the ACA: Releasing former
+prisoners from a high risk of death." Presented at the Presentations from
+Pilot Grant Recipients for Year 6, Network on Life Course Health Dynamics
+and Disparities in 21st Century America, Apr 2, 2021.
+Full text: https://syracuseuniversity.zoom.us/meeting/register/tJIrf-ivqjIpHdJKfQYxgzEceoFjlna1-XTM
+
+7. Gutierrez, Carmen; Patterson, Evelyn, "Implementation of the Affordable
+Care Act: Releasing former prisoners from a high risk of death." Presented
+at the Annual Meeting of the Academic Consortium on Criminal Justice Health
+Conference, Academic Consortium on Criminal Justice Health, Apr 9, 2021.
+Abstract: https://events.bizzabo.com/295523/agenda?speakers=1016319
+
+8. Patterson, Evelyn J., "The Long Arc of Mass Imprisonment." Updated Oct
+16, 2020,.
+Full text: https://www.soc.upenn.edu/events/2020/10/16/race-ethnicity-and-immigration-evelyn-j-patterson-associate-professor-sociology
