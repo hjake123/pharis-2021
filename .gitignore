@@ -115,3 +115,4 @@ dmypy.json
 
 #Jupyter notebook checkpoints
 /*.ipynb_checkpoints
+Data/discard.ipynb
