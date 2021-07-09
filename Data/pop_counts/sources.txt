@@ -14,3 +14,7 @@ This study was from June 2016.
 For population data:
 
 Census, 2016.
+
+For incarcerated count:
+
+Bureau of Justice Statistics (BJS), National Prisoner Statistics (NPS), 2016.
