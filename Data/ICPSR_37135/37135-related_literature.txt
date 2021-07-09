@@ -1,0 +1,104 @@
+Bibliography
+Annual Survey of Jails, 2016
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 37135. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Carson, E.A., "Mortality in Local Jails, 2000-2018." Statistical Tables.
+NCJ 256002, Washington, DC: Bureau of Justice Statistics, Apr 2021.
+Abstract: https://www.bjs.gov/index.cfm?iid=7386&ty=pbdetail&utm_content=apr2021&utm_medium=email&utm_source=govdelivery
+Full text PDF: https://www.bjs.gov/content/pub/pdf/mlj0018st.pdf
+This Bureau of Justice Statistics (BJS) report presents detailed
+statistical tables on mortality in local jails. It provides information on
+cause of death; decedent characteristics, such as age, gender, and race or
+ethnicity; and mortality rates of inmate populations compared to the
+general U.S. adult population. The report is based on BJS's annual
+Mortality in Correctional Institutions data collection, which obtains
+information on persons who died while in the physical custody of local
+jails or state departments of corrections.
+
+2. Carson, E.A.; Cowhig, Mary P., "Mortality in Local Jails, 2000-2016."
+Statistical Tables. NCJ 251921, Washington, DC: Bureau of Justice
+Statistics, Feb 2020.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=6767
+Full text PDF: https://www.bjs.gov/content/pub/pdf/mlj0016st.pdf
+
+3. Gaes, Gerald G., "Current status of prison privatization research on
+American prisons and jails." Criminology and Public Policy. May 2019, 18,
+(2), 269 - 293. DOI: 10.1111/1745-9133.12428
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=6767
+Full text PDF: https://www.bjs.gov/content/pub/pdf/mlj0016st.pdf
+
+4. Kang-Brown, Jacob; Montagnet, Chase; Heiss, Jasmine, "People in Jail and
+Prison in 2020." Brooklyn, NY: Vera Institute of Justice, Jan 2021.
+Full text PDF: https://www.vera.org/downloads/publications/people-in-jail-and-prison-in-2020.pdf
+
+5. Knapp, Courtney, "Local planning in the age of mass decarceration."
+Journal of Planning Education and Research. in press 2020,. DOI:
+10.1177/0739456X20911704
+Full text PDF: https://www.vera.org/downloads/publications/people-in-jail-and-prison-in-2020.pdf
+
+6. Liu, Patrick; Nunn, Ryan; Shambaugh, Jay, "Nine Facts About Monetary
+Sanctions in the Criminal Justice System." Economic Facts. The Hamilton
+Project, Mar 2019.
+Full text: http://www.hamiltonproject.org/papers/nine_facts_about_monetary_sanctions_in_the_criminal_justice_system
+Full text PDF: http://www.hamiltonproject.org/assets/files/BailFacts_20190314.pdf
+
+7. Liu, Patrick; Nunn, Ryan; Shambaugh, Jay, "The Economics of Bail and
+Pretrial Detention." The Hamilton Project. Washington, DC: Brookings, Dec
+2018.
+Full text PDF: http://www.hamiltonproject.org/assets/files/BailFineReform_EA_121818_6PM.pdf
+
+8. Maruschak, Laura M.; Minton, Todd D., "Correctional Populations in the
+United States, 2017-2018." Bulletin. NCJ 252157, Washington, DC: Bureau of
+Justice Statistics, Aug 2020.
+Full text PDF: https://www.bjs.gov/content/pub/pdf/cpus1718.pdf
+
+9. Pew Charitable Trusts, "Comprehensive Policies Can Improve Probation and
+Parole." Fact Sheet. Philadelphia, PA: Pew Charitable Trusts, Apr 2020.
+Full text PDF: https://www.livingfacts.org/-/media/assets/2020/04/pspp_comprehensive_policies_can_improve_probation_and_parole.pdf
+
+10. Sawyer, Wendy; Wagner, Peter, "Mass Incarceration: The Whole Pie 2019."
+Mar 19, 2019..
+Full text PDF: https://www.prisonpolicy.org/factsheets/pie2019_allimages.pdf
+
+11. Zeng, Zhen, "Jail Inmates in 2016." Bureau of Justice Statistics
+Bulletin. NCJ 251210, Washington, DC: Bureau of Justice Statistics, Feb
+2018.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273390
+Full text PDF: https://www.bjs.gov/content/pub/pdf/ji16.pdf
+Presents data on inmates confined in local jails between 2000 and 2016,
+including population counts and incarceration rates, inmate demographic
+characteristics and conviction status, average daily population, rated
+capacity of local jails and percent of capacity occupied, and turnover
+rates by jurisdiction size. Findings are based on data from BJS's Annual
+Survey of Jails. Unlike prisons, jails are locally administered
+correctional facilities that typically house inmates with a sentence of 1
+year or less; inmates pending arraignment; and individuals awaiting trial,
+conviction, or sentencing.
+
+12. Zeng, Zhen, "Jail Inmates in 2017." Bulletin. NCJ 251774, Washington,
+DC: Bureau of Justice Statistics, Apr 2019.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=273390
+Full text PDF: https://www.bjs.gov/content/pub/pdf/ji16.pdf
+Presents data on inmates confined in local jails between 2000 and 2016,
+including population counts and incarceration rates, inmate demographic
+characteristics and conviction status, average daily population, rated
+capacity of local jails and percent of capacity occupied, and turnover
+rates by jurisdiction size. Findings are based on data from BJS's Annual
+Survey of Jails. Unlike prisons, jails are locally administered
+correctional facilities that typically house inmates with a sentence of 1
+year or less; inmates pending arraignment; and individuals awaiting trial,
+conviction, or sentencing.
+
+13. Zeng, Zhen, "Jail Inmates in 2018." Bulletin. NCJ 253044, Washington,
+DC: Bureau of Justice Statistics, Mar 2020.
+Abstract: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=6826
+Full text PDF: https://www.bjs.gov/content/pub/pdf/ji18.pdf
