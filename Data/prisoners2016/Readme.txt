@@ -1,35 +1,22 @@
-Prisoners in 2016		
+Correctional Populations in the United States, 2016   				
+This zip archive contains tables in individual .csv spreadsheets		
+from Correctional Populations in the United States, 2016   NCJ 251211.		
+The full report including text and graphics in pdf format is available from 	
+https://www.bjs.gov/index.cfm?ty=pbdetail&iid= 6226		
 		
-This zip archive contains tables in individual  .csv spreadsheets		
-"from Prisoners in 2016, NCJ 251149  The full report including text"		
-and graphics in pdf format is available from: https://www.bjs.gov/index.cfm?ty=pbdetail&iid=6187	
-		
-This report is one in a series.  More recent editions may be available.  To view a list of all in the series go to		
-https://www.bjs.gov/index.cfm?ty=pbse&sid=40		
-		
-Filename	Table title	
-p16t01.csv		"Table 1. Prisoners under jurisdiction of state or federal correctional authorities, by jurisdiction and sex, December 31, 2006-2016"
-p16t02.csv		"Table 2. Prisoners under jurisdiction of state or federal correctional authorities, by jurisdiction and sex, December 31, 2015 and 2016"
-p16t03.csv		"Table 3. Sentenced prisoners under jurisdiction of state or federal correctional authorities, by jurisdiction, sex, race, and Hispanic origin, December 31, 2006-2016"
-p16t04.csv		"Table 4. Sentenced prisoners under the jurisdiction of state or federal correctional authorities, by sex, December 31, 2015 and 2016"
-p16t05.csv		"Table 5. Percent of sentenced prisoners under jurisdiction of state correctional authorities, by race, Hispanic origin, and data collection, 2016"
-p16t06.csv		"Table 6.  Imprisonment rate of sentenced prisoners under jurisdiction of state or federal correctional authorities, by jurisdiction and demographic characteristics, December 31, 2006-2016"
-p16t07.csv		"Table 7.  Imprisonment rate of sentenced prisoners under jurisdiction of state or federal correctional authorities per 100,000 U.S. residents, by jurisdiction and sex, December 31, 2015 and 2016"
-p16t08.csv		"Table 8. Admissions and releases of sentenced prisoners under jurisdiction of state or federal correctional authorities, 2015 and 2016"
-p16t09.csv		"Table 9. Percent of sentenced prisoners under jurisdiction of state or federal correctional authorities, by sex, race, Hispanic origin, and age, December 31, 2016"
-p16t10.csv		"Table 10.  Imprisonment rate of sentenced state and federal prisoners per 100,000 U.S. residents, by sex, race, Hispanic origin, and age, December 31, 2016"
-p16t11.csv		"Table 11. Non-U.S. citizen prisoners and prisoners age 17 or younger under custody of state or federal correctional authorities, by sex, December 31, 2016"
-p16t12.csv		"Table 12. Percent of sentenced prisoners under jurisdiction of state correctional authority, by most serious offense, sex, race, and Hispanic origin, December 31, 2015"
-p16t13.csv		"Table 13. Number of sentenced prisoners under jurisdiction of state correctional authority, by most serious offense, sex, race, and Hispanic origin, December 31, 2015"
-p16t14.csv		"Table 14. Percent of sentenced prisoners under jurisdiction of federal correctional authority, by most serious offense, sex, race, and Hispanic origin, September 30, 2016"
-p16t15.csv		"Table 15. Number of sentenced prisoners under jurisdiction of federal correctional authority, by most serious offense, that race, sex and Hispanic origin, September 30, 2016"
-p16t16.csv		"Table 16. Prison facility capacity, custody population, and percent capacity, December 31, 2016"
-p16t17.csv		"Table 17. Prisoners under the jurisdiction of state or federal correctional authorities held in the custody of private prisons and local jails, December 31, 2015 and 2016"
-p16t18.csv		"Table 18. Prisoners under military jurisdiction, by branch of service, December 31, 2015 and 2016"
-p16t19.csv		"Table 19. Percent of prisoners under jurisdiction of military correctional authority, with sentences of any length, by most serious offense and branch of service, December 31, 2016 "
-p16t20.csv		"Table 20. Prisoners under jurisdiction or in custody of correctional authorities in U.S. territories and commonwealths, by prison facility capacity, December 31, 2016"
-p16t21.csv		"Table 21. Prisoners under jurisdiction of state or federal correctional authorities, by state and federal reported not self-identified race and Hispanic origin, December 31, 2016"
-		
-		Figure Title	
-			"Figure 1. Imprisonment rate of sentenced prisoners under the jurisdiction of state or federal correctional authorities, per 100,000 U.S. residents, 1978-2016"
-			"Figure 2. Imprisonment rate of sentenced prisoners under the jurisdiction of state or federal correctional authorities, per 100,000 U.S. residents age 18 or older, by race and Hispanic origin, December 31, 2006-2016"
+This report is one in a series.  More recent editions		
+may be available.  To view a list of all in the series go to		
+https://www.bjs.gov/index.cfm?ty=pbse&sid=5		
+Filename		Appendix table title		
+cpus16at01.csv		Appendix table 1. Estimated number and rate of persons supervised by U.S. adult correctional systems, by jurisdiction and correctional status, 2016
+cpus16at02.csv		Appendix table 2. Number of persons incarcerated by other adult correctional systems, 2000, 2010, and 2015–2016
+cpus16at03.csv		Appendix table 3. Persons held in custody in state or federal prisons or in local jails, 2000, 2010, and 2015–2016
+cpus16at04.csv		Appendix table 4. Standard errors for local jail inmates at midyear, 2006–2016
+			Figure title
+cpus16f01.csv		Figure 1. Total population under the supervision of U.S. adult correctional systems, 2006–2016
+			Table title
+cpus16t01.csv		Table 1. Number of persons supervised by U.S. adult correctional systems, by correctional status, 2000 and 2006–2016
+cpus16t02.csv		Table 2. Number of persons supervised by U.S. adult correctional systems, by correctional status, 2007 and 2016
+cpus16t03.csv		Table 3. Change in the number of persons supervised by U.S. adult correctional systems, 2007–2016
+cpus16t04.csv		Table 4. Rate of persons supervised by U.S. adult correctional systems, by correctional status, 2000 and 2006–2016
+cpus16t05.csv		Table 5. Number of offenders with dual correctional statuses at year-end, by correctional status, 2000–2016
