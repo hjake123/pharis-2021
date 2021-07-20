@@ -18,3 +18,7 @@ Census, 2016.
 For incarcerated count:
 
 Bureau of Justice Statistics (BJS), National Prisoner Statistics (NPS), 2016.
+
+For race counts:
+
+ACS DEMOGRAPHIC AND HOUSING ESTIMATES, American Community Survey, Census Bureau, 2016

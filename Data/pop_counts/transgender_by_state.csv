@@ -1,51 +1,51 @@
-﻿State,transgenderPopPerc
-Hawaii,0.006
-New Mexico,0.0056
-California,0.0055
-Georgia,0.0051
-Vermont,0.0048
-Oregon,0.0046
-Mississippi,0.0046
-Oklahoma,0.0046
-Delaware,0.0046
-Florida,0.0046
-Alabama,0.0046
-Louisiana,0.0045
-Tennessee,0.0045
-Arkansas,0.0044
-Massachusetts,0.0043
-Minnesota,0.0042
-Texas,0.0042
-Washington,0.0042
-North Carolina,0.0042
-New York,0.0041
-Arizona,0.0041
-Missouri,0.0041
-Indiana,0.0041
-Virginia,0.004
-Rhode Island,0.004
-Nevada,0.004
-South Carolina,0.004
-Illinois,0.004
-Kentucky,0.004
-Maine,0.0039
-Alaska,0.0037
-Maryland,0.0037
-Colorado,0.0035
-Connecticut,0.0035
-West Virginia,0.0035
-Pennsylvania,0.0034
-Ohio,0.0034
-New Jersey,0.0034
-Michigan,0.0033
-New Hampshire,0.0033
-Wisconsin,0.0033
-Kansas,0.0032
-Nebraska,0.0028
-Idaho,0.0026
-Montana,0.0025
-Wyoming,0.0024
-South Dakota,0.0024
-Iowa,0.0023
-Utah,0.0022
-North Dakota,0.0021
+﻿State,Proportion
+AL,0.0046
+AK,0.0037
+AZ,0.0041
+AR,0.0044
+CA,0.0055
+CO,0.0035
+CT,0.0035
+DE,0.0046
+FL,0.0046
+GA,0.0051
+HI,0.0060
+ID,0.0026
+IL,0.0040
+IN,0.0041
+IA,0.0023
+KS,0.0032
+KY,0.0040
+LA,0.0045
+ME,0.0039
+MD,0.0037
+MA,0.0043
+MI,0.0033
+MN,0.0042
+MS,0.0046
+MO,0.0041
+MT,0.0025
+NE,0.0028
+NV,0.0040
+NH,0.0033
+NJ,0.0034
+NM,0.0056
+NY,0.0041
+NC,0.0042
+ND,0.0021
+OH,0.0034
+OK,0.0046
+OR,0.0046
+PA,0.0034
+RI,0.0040
+SC,0.0040
+SD,0.0024
+TN,0.0045
+TX,0.0042
+UT,0.0022
+VT,0.0048
+VA,0.0040
+WA,0.0042
+WV,0.0035
+WI,0.0033
+WY,0.0024
