@@ -1,4 +1,4 @@
-﻿Label, White,Black or African American, American Indian and Alaska Native,Asian,Native Hawaiian and Other Pacific Islander,Some other race
+﻿Label,White,Black or African American, American Indian and Alaska Native,Asian,Native Hawaiian and Other Pacific Islander,Some other race
 AL,0.702,0.273,0.012,0.016,0.001,0.014
 AK,0.731,0.051,0.195,0.079,0.018,0.018
 AZ,0.806,0.053,0.055,0.04,0.004,0.077
@@ -50,4 +50,4 @@ WA,0.821,0.052,0.03,0.1,0.012,0.045
 WV,0.952,0.043,0.01,0.01,0.001,0.004
 WI,0.882,0.073,0.016,0.03,0.001,0.021
 WY,0.937,0.017,0.036,0.014,0.002,0.022
-PR,0.766,0.16,0.009,0.003,0.000,0.14
+PR,0.766,0.16,0.009,0.003,0,0.14
