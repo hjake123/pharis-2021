@@ -1,0 +1,3 @@
+2016 election data is derived from Accosiated Press data, as aquired through worldpopulationreview.com
+
+2016 poverty data is derived from Census.
